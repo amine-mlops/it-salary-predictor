@@ -96,22 +96,22 @@ Learned parameters after training:
 ### Experience vs Salary
 Linear relationship between years of experience and salary — confirms `Experience` as the dominant predictor.
 
-![Experience vs Salary](salaire_vs_experience.png)
+![Experience vs Salary](screenshot/plot1.jpeg)
 
 ### Salary Distribution by Certifications
 Salary grows consistently with the number of certifications held.
 
-![Salary by Certifications](Salary%20by%20Certification%20Count.png)
+![Salary by Certifications](screenshot/plot2.jpeg)
 
 ### Feature Correlation Matrix
 Strong positive correlations between all features and the target variable.
 
-![Correlation Matrix](Feature%20Correlation%20Matrix.png)
+![Correlation Matrix](screenshot/plot3.jpeg)
 
 ### Salary vs Projects Completed
 Projects completed combined with certifications show a clear upward salary trend.
 
-![Salary vs Projects](Salary%20vs%20Projects%20Completed.png)
+![Salary vs Projects](screenshot/plot4.jpeg)
 
 ---
 
