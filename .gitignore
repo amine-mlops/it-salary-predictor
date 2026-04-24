@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Dataset (optional - if you don’t want to upload it)
+salary_dataset.csv
+
+# Environment variables
+.env
